@@ -5,6 +5,7 @@
 *.tfstate
 *.tfstate.*
 *.exe
+main.tf.old
 
 # Crash log files
 crash.log
