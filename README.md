@@ -1,4 +1,4 @@
-## Exmaple of manage VMware infrastructure with Haschicorp terraform
+## Exmaple of manage VMware infrastructure with HashiCorp terraform
 Contains a simple exemple on how to add Datastores and Datastore Cluster to a list of hosts. 
 
 ### Variable file needed that contains the following
